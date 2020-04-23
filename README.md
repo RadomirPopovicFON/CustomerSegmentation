@@ -3,4 +3,4 @@ Utilizing customer segmentation techniques within a [notebook](https://github.co
 
 Libraries used: matplotlib, sklearn, pandas, numpy, seaborn.
 
-!()[img.png]
+![](img.png)
